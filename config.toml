@@ -21,7 +21,7 @@ enableInlineShortcodes = true
     name = "Profile"
     url = "/profile/"
     weight = 10
-[[menu.main]]
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
